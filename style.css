@@ -6,3 +6,6 @@ body {
 #game-canvas {
   border: 1px solid black;
 }
+body {
+  background-color: black;
+}
